@@ -1,3 +1,21 @@
 .App {
   text-align: center;
+  height: 100vh;
+  margin: 0;
+  color: rgb(191, 188, 188);
+}
+
+.App button{
+  background-color: rgb(209, 219, 216);
+  color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 05px 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+body{
+  
+  background-color: rgb(57, 65, 62);
 }
